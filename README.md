@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +9,6 @@
     <h1>Agrega boleta</h1>
     <form action="../modelo/boleta.php" method="post">
         <label for="">nombre</label><br>
-        <input type="text"name="nombre"><br><br>
         <label for="">apellido</label></BR>
         <input type="text"name="apellido"><br><br>
         <label for="">especialidad</label><br>
