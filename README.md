@@ -9,10 +9,11 @@
     <section class="fondo">
      <link rel="stylesheet" href="style.css">
         
-    <section class="menu">
+   
         
     <nav>
         <ul>
+         <section class="menu">
           <li><a href="alumnos.html">alumnos</a></li>
        </section>  <br><br><br>
         <section class="segundo">
