@@ -5,19 +5,19 @@
 
 }
 .menu{
+  
   padding: 10px 20px;           /* tamaño del botón */
   font-size: 16px;              /* tamaño del texto */
   background-color: #007bff;    /* color de fondo */
   color: white;                 /* color del texto */
   border: none;                 /* sin borde */
   border-radius: 8px;           /* bordes redondeados */
-  cursor: pointer;              /* cursor tipo mano */
- 
+  cursor: pointer;             
 }
 .segundo{
   padding: 10px 20px;           /* tamaño del botón */
   font-size: 16px;              /* tamaño del texto */
-  background-color: #007bff;    /* color de fondo */
+  background-color:aqua;    /* color de fondo */
   color: white;                 /* color del texto */
   border: none;                 /* sin borde */
   border-radius: 8px;           /* bordes redondeados */
@@ -26,7 +26,7 @@
 .tercero{
   padding: 10px 20px;           /* tamaño del botón */
   font-size: 16px;              /* tamaño del texto */
-  background-color: #007bff;    /* color de fondo */
+  background-color:blue;    /* color de fondo */
   color: white;                 /* color del texto */
   border: none;                 /* sin borde */
   border-radius: 8px;           /* bordes redondeados */
