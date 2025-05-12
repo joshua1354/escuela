@@ -12,7 +12,7 @@
         <ul>
           <li><a href="alumnos.html">alumnos</a></li>
           <li><a href="boleta.html">boleta</a></li>
-          <li><a href="docente.html">docente</a></li>
+          <li><a href="docentes.html">docente</a></li>
         
         </ul>
       </nav>
