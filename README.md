@@ -21,7 +21,7 @@
         </section><br><br><br><br>
         <section class="tercero">
           <li><a href="docentes.html">docentes</a></li>
-   
+    </section>
         </ul>
        
       </nav>
