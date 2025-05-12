@@ -8,7 +8,7 @@
   
   padding: 10px 20px;           /* tamaño del botón */
   font-size: 16px;              /* tamaño del texto */
-  background-color: #007bff;    /* color de fondo */
+  background-color:blueviolet;    /* color de fondo */
   color: white;                 /* color del texto */
   border: none;                 /* sin borde */
   border-radius: 8px;           /* bordes redondeados */
@@ -17,7 +17,7 @@
 .segundo{
   padding: 10px 20px;           /* tamaño del botón */
   font-size: 16px;              /* tamaño del texto */
-  background-color:aqua;    /* color de fondo */
+  background-color:cyan;    /* color de fondo */
   color: white;                 /* color del texto */
   border: none;                 /* sin borde */
   border-radius: 8px;           /* bordes redondeados */
@@ -26,7 +26,7 @@
 .tercero{
   padding: 10px 20px;           /* tamaño del botón */
   font-size: 16px;              /* tamaño del texto */
-  background-color:blue;    /* color de fondo */
+  background-color:lightseagreen;    /* color de fondo */
   color: white;                 /* color del texto */
   border: none;                 /* sin borde */
   border-radius: 8px;           /* bordes redondeados */
@@ -34,5 +34,5 @@
  
  }
   .fondo{
-    background-color: aqua;
+    background-color:antiquewhite;
   }
