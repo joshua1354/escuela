@@ -6,11 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>HOLA BIENVENIDO A MI PAGINA WEB COMO TE PUEDO AYUADAR DESDE PROFESORES EN SUBIR PROMEDIO DE ALUMNOS ASTA ALUMNOS QUE QUIEREN AGREGARSE A LA PAGINA </h1>
       <nav>
         <ul>
           <li><a href="../alumnos.html">alumnos</a></li>
-          
+           <link rel="alumnos" href="alumnos.html">
         </ul>
       </nav>
       
