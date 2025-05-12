@@ -6,7 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <link rel="stylesheet" href="../diseño/alumnos.css">
+     <link rel="stylesheet" href="style.css">
+        
     <section class="menu">
         
     <nav>
