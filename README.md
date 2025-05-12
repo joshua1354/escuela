@@ -14,7 +14,7 @@
     <nav>
         <ul>
           <li><a href="alumnos.html">alumnos</a></li>
-        </section> <br><br><br>
+         <br><br><br>
         <section class="segundo">
           <li><a href="boleta.html">boleta</a></li>
         </section><br><br><br><br>
@@ -25,5 +25,4 @@
        
       </nav>
     </section>
-</body>
-</html>
+
