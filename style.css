@@ -16,8 +16,13 @@
 
 }
 .tercero{
-  text-align: center;
-  background-color:cornflowerblue;
+  padding: 10px 20px;           /* tamaño del botón */
+  font-size: 16px;              /* tamaño del texto */
+  background-color: #007bff;    /* color de fondo */
+  color: white;                 /* color del texto */
+  border: none;                 /* sin borde */
+  border-radius: 8px;           /* bordes redondeados */
+  cursor: pointer;              /* cursor tipo mano */
  
 
  }
