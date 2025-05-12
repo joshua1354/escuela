@@ -6,21 +6,21 @@
     <title>Document</title>
 </head>
 <body>
-         <link rel="stylesheet" href="style.css">
-    <section class="menu"> 
+    <link rel="stylesheet" href="../diseño/alumnos.css">
+    <section class="menu">
         
     <nav>
         <ul>
-        
           <li><a href="alumnos.html">alumnos</a></li>
-           </section> <br><br><br>
-             <section class="segundo">
+        </section> <br><br><br>
+        <section class="segundo">
           <li><a href="boleta.html">boleta</a></li>
-           </section><br><br><br><br>
+        </section><br><br><br><br>
         <section class="tercero">
-          <li><a href="docentes.html">docente</a></li>
+          <li><a href="docentes.html">docentes</a></li>
         </section>
         </ul>
       </nav>
+    
 </body>
 </html>
