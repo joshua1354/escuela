@@ -1,4 +1,4 @@
-
+  <section class="fondo">
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <section class="fondo">
+
      <link rel="stylesheet" href="style.css">
         
    
