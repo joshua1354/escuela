@@ -6,16 +6,13 @@
     <title>Document</title>
 </head>
 <body>
-      <nav>
-        <ul>
-          <li><a href="alumnos.html">
-
-
-
         
+        
+    <nav>
+        <ul>
+          <li><a href="alumnos.html">alumnos</a></li>
         
         </ul>
       </nav>
-      
 </body>
 </html>
