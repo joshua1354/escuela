@@ -9,7 +9,7 @@
       <nav>
         <ul>
           <li><a href="../alumnos.html">alumnos</a></li>
-           <link rel="alumnos" href="alumnos.html">
+           <link rel="alumnos.html" href="alumnos.html">
         </ul>
       </nav>
       
