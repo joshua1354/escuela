@@ -1,5 +1,5 @@
 <?php
-include '..';
+include 'rel="stylesheet" href="style.conexion"';
 
 $nombre=$_POST['nombre'];
 $apellido=$_POST['apellido'];
