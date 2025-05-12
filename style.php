@@ -1,5 +1,5 @@
 <?php
-include '../controlador/conexion.php';
+include '..';
 
 $nombre=$_POST['nombre'];
 $apellido=$_POST['apellido'];
