@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <section class="fondo">
      <link rel="stylesheet" href="style.css">
         
     <section class="menu">
@@ -21,7 +22,8 @@
           <li><a href="docentes.html">docentes</a></li>
         </section>
         </ul>
+       
       </nav>
-    
+    </section>
 </body>
 </html>
