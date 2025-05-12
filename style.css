@@ -2,4 +2,23 @@
   color:black;
   background-color:rgba(0, 0, 0, 0.233);
   text-align: center;
+
+}
+.menu{
+  text-align: center;
+ background-color:cornflowerblue;
+ transform: scale(4); /* Agrandar el cuadro al 200% (2 veces) */
+ transition: transform 0.3s ease; /* Transición suave para el efecto */
+}
+.segundo{
+  text-align: center;
+  background-color:cornflowerblue;
+ transform: scale(4); /* Agrandar el cuadro al 200% (2 veces) */
+ transition: transform 0.3s ease; /* Transición suave para el efecto */
+}
+.tercero{
+  text-align: center;
+  background-color:cornflowerblue;
+ transform: scale(4); /* Agrandar el cuadro al 200% (2 veces) */
+ transition: transform 0.3s ease; /* Transición suave para el efecto */
 }
