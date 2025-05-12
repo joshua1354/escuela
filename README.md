@@ -8,8 +8,12 @@
 <body>
       <nav>
         <ul>
-          <li><a href="../alumnos.html">alumnos</a></li>
-           <link rel="alumnos.html" href="alumnos.html">
+          <li><a href="alumnos.html">
+
+
+
+        
+        
         </ul>
       </nav>
       
