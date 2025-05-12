@@ -9,7 +9,7 @@
   padding: 10px 20px;           /* tamaño del botón */
   font-size: 16px;              /* tamaño del texto */
   background-color:blueviolet;    /* color de fondo */
-  color: white;                 /* color del texto */
+  color:black;                 /* color del texto */
   border: none;                 /* sin borde */
   border-radius: 8px;           /* bordes redondeados */
   cursor: pointer;             
@@ -18,7 +18,7 @@
   padding: 10px 20px;           /* tamaño del botón */
   font-size: 16px;              /* tamaño del texto */
   background-color:cyan;    /* color de fondo */
-  color: white;                 /* color del texto */
+  color:black;                 /* color del texto */
   border: none;                 /* sin borde */
   border-radius: 8px;           /* bordes redondeados */
   cursor: pointer;              /* cursor tipo mano */
@@ -27,10 +27,12 @@
   padding: 10px 20px;           /* tamaño del botón */
   font-size: 16px;              /* tamaño del texto */
   background-color:lightseagreen;    /* color de fondo */
-  color: white;                 /* color del texto */
+  color:black;                 /* color del texto */
   border: none;                 /* sin borde */
   border-radius: 8px;           /* bordes redondeados */
   cursor: pointer;              /* cursor tipo mano */
  
  }
- 
+  .fondo{
+    background-color:blueviolet;
+  }
