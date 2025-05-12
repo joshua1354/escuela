@@ -7,18 +7,17 @@
 .menu{
   text-align: center;
  background-color:cornflowerblue;
- transform: scale(1); /* Agrandar el cuadro al 200% (2 veces) */
- transition: transform 0.3s ease; /* Transición suave para el efecto */
+
+ 
 }
 .segundo{
   text-align: center;
   background-color:cornflowerblue;
- transform: scale(1); /* Agrandar el cuadro al 200% (2 veces) */
- transition: transform 0.3s ease; /* Transición suave para el efecto */
+
 }
 .tercero{
   text-align: center;
   background-color:cornflowerblue;
- transform: scale(1); /* Agrandar el cuadro al 200% (2 veces) */
- transition: transform 0.3s ease; /* Transición suave para el efecto */
-}
+ 
+
+ }
